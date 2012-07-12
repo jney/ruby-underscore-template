@@ -15,6 +15,8 @@ templating directly with `_.template` function
 Just add this to your `Gemfile` :
 
     gem 'underscore-template'
+    
+Example :
 
     <!-- templates/hello.jst._ -->
     <div>Hello, <span><%= name %></span>!</div>
